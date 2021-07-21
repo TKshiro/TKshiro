@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TKshiro.
 - 🌱 I’m currently learning operation.
-- 📫 How to reach me feloteam0108.
+- 📫 How to reach me feloteam0108@gmail.com.
 
 <!---
 TKshiro/TKshiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
